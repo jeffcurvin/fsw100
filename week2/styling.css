@@ -1,0 +1,72 @@
+/* background*/
+body {
+    background-color: lightCyan;
+   }
+
+
+/*title*/
+h1{
+    color:blue;
+    font-family: Georgia;
+}
+
+
+/*headers*/
+.blue{
+    color:green;
+    font-family: Georgia;
+}
+
+/* center headline*/
+h1,h2 { text-align: center }
+
+
+/*paragraph line height*/
+p { 
+  line-height: 20px;
+}
+
+
+/*make the 90% coral*/
+.coral{
+    color:lightCoral
+}
+
+
+/* make links be underlined when hovering over them*/
+a:hover {
+    text-decoration: underline;
+  }
+
+
+/*change to uppercase */
+p.upper{
+    text-transform: uppercase;
+}
+
+
+/*make image float to left */
+ img { float: left; margin: 20px;} 
+
+
+/*list from numbers to disck*/
+ol {
+    list-style-type: disc;
+  }
+
+
+/* change color of lis*/
+  .bold{
+      color:blue
+  }
+
+
+
+
+
+
+
+
+
+
+  

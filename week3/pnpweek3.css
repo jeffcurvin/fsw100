@@ -1,0 +1,8 @@
+header{
+    color: blue
+}
+
+
+table,tr,th,td{
+    border: black solid 5px
+}
