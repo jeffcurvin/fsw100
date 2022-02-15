@@ -1,0 +1,41 @@
+.nav-bar  {
+    position: fixed;
+    width: 100%;
+    margin-bottom:10px;
+    background-color: blue
+}
+
+.a{
+ margin-top:10px;
+ padding:20px;
+ margin-bottom:150px;
+ width: 80%;
+text-align:center
+}
+
+.picture{
+    float:left;
+    margin-top:20px;
+    height:150px;
+    margin-right:20px;
+   align-content: center;
+}
+
+
+.b{
+    margin-bottom:150px;
+    width: 80%;
+    text-align:center
+
+}
+
+
+.c{
+    margin-bottom:150px;
+    width: 80%;
+    text-align:center
+}
+
+*{
+    margin:auto
+}
