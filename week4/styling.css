@@ -9,7 +9,7 @@
  margin-top:10px;
  padding:20px;
  margin-bottom:150px;
- width: 80%;
+
 text-align:center
 }
 
@@ -24,7 +24,7 @@ text-align:center
 
 .b{
     margin-bottom:150px;
-    width: 80%;
+   
     text-align:center
 
 }
@@ -32,10 +32,31 @@ text-align:center
 
 .c{
     margin-bottom:150px;
-    width: 80%;
+   
     text-align:center
 }
 
+
+.d{
+    margin-bottom:150px;
+  
+    text-align:center
+}
+
+.j{
+    margin-bottom:150px;
+   
+    text-align:center
+
+}
+
+
+header main{
+    width: 80%;
+    justify-content: center;
+}
+
 *{
-    margin:auto
+    margin:auto;
+    max-width:90%
 }
